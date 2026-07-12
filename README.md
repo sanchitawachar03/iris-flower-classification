@@ -17,7 +17,6 @@ The project demonstrates the complete Machine Learning workflow, including data 
 ## 🛠️ Technologies Used
 
 - Python
-- Pandas
 - NumPy
 - Scikit-learn
 - Jupyter Notebook
